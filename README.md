@@ -140,16 +140,6 @@ While the project is concept-level and product-focused, work was supported by:
 
 ---
 
-## 👤 Author
-
-**[Your Name]**
-Product Management & Data Analytics | Customer Experience Background
-LinkedIn: *add your link here*
-
----
-
-## 📝 License
-
 This project is part of the Udacity Product Manager Nanodegree and is intended for educational and portfolio use only. It is **not affiliated with DoorDash**.
 
 ---
